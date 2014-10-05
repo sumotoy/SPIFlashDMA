@@ -10,4 +10,4 @@ If you want an OFFICIAL working version of this library, follow link above!<br>
 The library it's here just for discussion about implement SPI-DMA stuff on Teensy3.<br><br>
 
 *** Note about current version.<br>
-This current version works only with Teensy3 and SPI_Transactions as start, I will add the DMA stuff later. The purpose it's test the differences between normal SPI calls and DMA ones.
+This current version works only with Teensy3 and SPI_Transactions as start, I will add the DMA stuff later. The purpose it's test the differences between normal SPI calls and DMA ones https://github.com/crteensy/DmaSpi
