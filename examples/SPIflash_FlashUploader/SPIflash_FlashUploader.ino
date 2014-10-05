@@ -18,7 +18,7 @@
 //
 // Also note that serial transfer of data is SLOW.
 //
-
+#include <SPI.h>
 #include <SPIFlashDMA.h>
 
 

@@ -6,7 +6,7 @@
 //
 // The chip must contain the SPIFlashDMA file system.
 //
-
+#include <SPI.h>
 #include <SPIFlashDMA.h>
 
 

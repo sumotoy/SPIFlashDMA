@@ -10,7 +10,7 @@
 // This sketch was designed to work with the
 // "File System Demo" (DEMO.SFD) dataset.
 //
-
+#include <SPI.h>
 #include <SPIFlashDMA.h>
 
 
