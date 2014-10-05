@@ -1,0 +1,4 @@
+Version:
+	1.0	11 Jan 2014  -  initial release
+	1.01	13 Jan 2014  -  included the correct FlashUploader
+	1.1	08 Jun 2014  -	added support for three MXIC flash chips

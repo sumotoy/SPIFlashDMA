@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SupportedChips>
+  <Chip>
+    <Chip_Model>SST25VF064C</Chip_Model>
+    <Chip_Manufacturer>SST (Microchip)</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>BF254B</Chip_Identifier>
+    <Chip_Size>64</Chip_Size>
+    <Chip_Pages>32768</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>SST25VF016B</Chip_Model>
+    <Chip_Manufacturer>SST (Microchip)</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>BF2541</Chip_Identifier>
+    <Chip_Size>16</Chip_Size>
+    <Chip_Pages>8192</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>SST25VF032B</Chip_Model>
+    <Chip_Manufacturer>SST (Microchip)</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>BF254A</Chip_Identifier>
+    <Chip_Size>32</Chip_Size>
+    <Chip_Pages>16384</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>SST25VF020B</Chip_Model>
+    <Chip_Manufacturer>SST (Microchip)</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>BF258C</Chip_Identifier>
+    <Chip_Size>2</Chip_Size>
+    <Chip_Pages>1024</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>SST25VF040B</Chip_Model>
+    <Chip_Manufacturer>SST (Microchip)</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>BF258D</Chip_Identifier>
+    <Chip_Size>4</Chip_Size>
+    <Chip_Pages>2048</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>SST25VF080B</Chip_Model>
+    <Chip_Manufacturer>SST (Microchip)</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>BF258E</Chip_Identifier>
+    <Chip_Size>8</Chip_Size>
+    <Chip_Pages>4096</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>W25Q08BV</Chip_Model>
+    <Chip_Manufacturer>Winbond</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>EF4014</Chip_Identifier>
+    <Chip_Size>8</Chip_Size>
+    <Chip_Pages>4096</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>W25Q16BV</Chip_Model>
+    <Chip_Manufacturer>Winbond</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>EF4015</Chip_Identifier>
+    <Chip_Size>16</Chip_Size>
+    <Chip_Pages>8192</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>W25Q32BV</Chip_Model>
+    <Chip_Manufacturer>Winbond</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>EF4016</Chip_Identifier>
+    <Chip_Size>32</Chip_Size>
+    <Chip_Pages>16384</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>W25Q64FV</Chip_Model>
+    <Chip_Manufacturer>Winbond</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>EF4017</Chip_Identifier>
+    <Chip_Size>64</Chip_Size>
+    <Chip_Pages>32768</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>W25Q128BV/FV</Chip_Model>
+    <Chip_Manufacturer>Winbond</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>EF4018</Chip_Identifier>
+    <Chip_Size>128</Chip_Size>
+    <Chip_Pages>65536</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>MX25L1605D</Chip_Model>
+    <Chip_Manufacturer>MXIC</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>C22015</Chip_Identifier>
+    <Chip_Size>16</Chip_Size>
+    <Chip_Pages>8192</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>MX25L3205D</Chip_Model>
+    <Chip_Manufacturer>MXIC</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>C22016</Chip_Identifier>
+    <Chip_Size>32</Chip_Size>
+    <Chip_Pages>16384</Chip_Pages>
+  </Chip>
+  <Chip>
+    <Chip_Model>MX25L6405D</Chip_Model>
+    <Chip_Manufacturer>MXIC</Chip_Manufacturer>
+    <Chip_Type>SPI Serial Flash</Chip_Type>
+    <Chip_Identifier>C22017</Chip_Identifier>
+    <Chip_Size>64</Chip_Size>
+    <Chip_Pages>32768</Chip_Pages>
+  </Chip>
+</SupportedChips>
